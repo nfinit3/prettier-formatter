@@ -1,0 +1,20 @@
+{
+    "name": "prettier-formatter",
+    "version": "1.0.0",
+    "description": "Prettier Formatter",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nfinit3/prettier-formatter.git"
+    },
+    "keywords": [
+        "prettier",
+        "formatter"
+    ],
+    "author": "Vikram Mudaliar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nfinit3/prettier-formatter/issues"
+    },
+    "homepage": "https://github.com/nfinit3/prettier-formatter#readme"
+}
