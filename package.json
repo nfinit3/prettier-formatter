@@ -1,6 +1,6 @@
 {
     "name": "prettier-formatter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Prettier Formatter",
     "main": "index.js",
     "repository": {
