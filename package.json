@@ -1,7 +1,7 @@
 {
     "name": "prettier-formatter",
     "version": "1.0.2",
-    "description": "Prettier Formatter",
+    "description": "Personal Prettier Formatter",
     "main": "index.js",
     "repository": {
         "type": "git",
