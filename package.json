@@ -12,7 +12,7 @@
         "formatter"
     ],
     "author": "Vikram Mudaliar",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/nfinit3/prettier-formatter/issues"
     },
